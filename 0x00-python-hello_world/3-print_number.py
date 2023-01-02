@@ -1,3 +1,2 @@
 #!/usr/bin/python3
-number = 98
-f"{number} Battery street\n"
+number = 98i"{number} Battery street\n"
