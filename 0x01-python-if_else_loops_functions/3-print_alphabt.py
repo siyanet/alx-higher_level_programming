@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-for l in "abcdefghijklmnopqrstuvwxyz":
-    if l == 'q' or l == 'e':
+for letter in "abcdefghijklmnopqrstuvwxyz":
+    if letter == 'q' or letter == 'e':
         continue
     else:
-        print("{}".format(l), end = '')
+        print("{}".format(l), end='')
