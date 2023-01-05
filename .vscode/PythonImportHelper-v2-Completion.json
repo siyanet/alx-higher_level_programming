@@ -1,0 +1,294 @@
+[
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "calculator_1",
+        "description": "calculator_1",
+        "isExtraImport": true,
+        "detail": "calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "sub",
+        "importPath": "calculator_1",
+        "description": "calculator_1",
+        "isExtraImport": true,
+        "detail": "calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "mul",
+        "importPath": "calculator_1",
+        "description": "calculator_1",
+        "isExtraImport": true,
+        "detail": "calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "div",
+        "importPath": "calculator_1",
+        "description": "calculator_1",
+        "isExtraImport": true,
+        "detail": "calculator_1",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_4",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hidden_4",
+        "description": "hidden_4",
+        "detail": "hidden_4",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "importPath": "variable_load_5",
+        "description": "variable_load_5",
+        "isExtraImport": true,
+        "detail": "variable_load_5",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.3-print_number",
+        "description": "0x00-python-hello_world.3-print_number",
+        "peekOfCode": "number = 98i\"{number} Battery street\\n\"",
+        "detail": "0x00-python-hello_world.3-print_number",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.4-print_float",
+        "description": "0x00-python-hello_world.4-print_float",
+        "peekOfCode": "number = 3.14159\nprint(f\"Float: {number:.2f}\")",
+        "detail": "0x00-python-hello_world.4-print_float",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.5-print_string",
+        "description": "0x00-python-hello_world.5-print_string",
+        "peekOfCode": "str = \"Holberton School\"\nprint(3*str)\nprint(str[:9])",
+        "detail": "0x00-python-hello_world.5-print_string",
+        "documentation": {}
+    },
+    {
+        "label": "str1",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.6-concat",
+        "description": "0x00-python-hello_world.6-concat",
+        "peekOfCode": "str1 = \"Holberton\"\nstr2 = \"School\"\nstr1 = str1 +\" \"+ str2\nprint(f\"Welcome to {str1}!\")",
+        "detail": "0x00-python-hello_world.6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "str2",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.6-concat",
+        "description": "0x00-python-hello_world.6-concat",
+        "peekOfCode": "str2 = \"School\"\nstr1 = str1 +\" \"+ str2\nprint(f\"Welcome to {str1}!\")",
+        "detail": "0x00-python-hello_world.6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "str1",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.6-concat",
+        "description": "0x00-python-hello_world.6-concat",
+        "peekOfCode": "str1 = str1 +\" \"+ str2\nprint(f\"Welcome to {str1}!\")",
+        "detail": "0x00-python-hello_world.6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "word",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "word = \"Holberton\"\nword_first_3 = word[:3]\nword_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(f\"First 3 letters: {word_first_3}\")\nprint(f\"Last 2 letters: {word_last_2}\")\nprint(f\"Middle word: {middle_word}\")",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "word_first_3",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "word_first_3 = word[:3]\nword_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(f\"First 3 letters: {word_first_3}\")\nprint(f\"Last 2 letters: {word_last_2}\")\nprint(f\"Middle word: {middle_word}\")",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "word_last_2",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "word_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(f\"First 3 letters: {word_first_3}\")\nprint(f\"Last 2 letters: {word_last_2}\")\nprint(f\"Middle word: {middle_word}\")",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "middle_word",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.7-edges",
+        "description": "0x00-python-hello_world.7-edges",
+        "peekOfCode": "middle_word = word[1:-1]\nprint(f\"First 3 letters: {word_first_3}\")\nprint(f\"Last 2 letters: {word_last_2}\")\nprint(f\"Middle word: {middle_word}\")",
+        "detail": "0x00-python-hello_world.7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "0x00-python-hello_world.8-concat_edges",
+        "description": "0x00-python-hello_world.8-concat_edges",
+        "peekOfCode": "str = \"Python is an interpreted, interactive, object-oriented programming\\\n language that combines remarkable power with very clear syntax\"\nstr =str[39:66] + str[106:112] + str[:6]\nprint(str)",
+        "detail": "0x00-python-hello_world.8-concat_edges",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x01-python-if_else_loops_functions.0-positive_or_negative",
+        "description": "0x01-python-if_else_loops_functions.0-positive_or_negative",
+        "peekOfCode": "number = random.randint(-10, 10)\nif number > 0:\n    print(str(number) + \" is positive\")\nelif number == 0:\n    print(str(number) + \" is zero\")\nelse:\n    print(str(number) + \" is negative\")",
+        "detail": "0x01-python-if_else_loops_functions.0-positive_or_negative",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "0x01-python-if_else_loops_functions.1-last_digit",
+        "description": "0x01-python-if_else_loops_functions.1-last_digit",
+        "peekOfCode": "number = random.randint(-10000, 10000)\ns = str(number)\nlast_digit = s[-1]\nlast_digit = int(last_digit)\nif number < -1:\n    last_digit = -last_digit\nif last_digit > 5:\n    stra = \"and is greater than 5\"\nelif last_digit == 0:\n    stra = \"and is 0\"",
+        "detail": "0x01-python-if_else_loops_functions.1-last_digit",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "0x01-python-if_else_loops_functions.1-last_digit",
+        "description": "0x01-python-if_else_loops_functions.1-last_digit",
+        "peekOfCode": "s = str(number)\nlast_digit = s[-1]\nlast_digit = int(last_digit)\nif number < -1:\n    last_digit = -last_digit\nif last_digit > 5:\n    stra = \"and is greater than 5\"\nelif last_digit == 0:\n    stra = \"and is 0\"\nelif last_digit < 6 and last_digit:",
+        "detail": "0x01-python-if_else_loops_functions.1-last_digit",
+        "documentation": {}
+    },
+    {
+        "label": "last_digit",
+        "kind": 5,
+        "importPath": "0x01-python-if_else_loops_functions.1-last_digit",
+        "description": "0x01-python-if_else_loops_functions.1-last_digit",
+        "peekOfCode": "last_digit = s[-1]\nlast_digit = int(last_digit)\nif number < -1:\n    last_digit = -last_digit\nif last_digit > 5:\n    stra = \"and is greater than 5\"\nelif last_digit == 0:\n    stra = \"and is 0\"\nelif last_digit < 6 and last_digit:\n    stra = \"and is less than 6 and not 0\"",
+        "detail": "0x01-python-if_else_loops_functions.1-last_digit",
+        "documentation": {}
+    },
+    {
+        "label": "last_digit",
+        "kind": 5,
+        "importPath": "0x01-python-if_else_loops_functions.1-last_digit",
+        "description": "0x01-python-if_else_loops_functions.1-last_digit",
+        "peekOfCode": "last_digit = int(last_digit)\nif number < -1:\n    last_digit = -last_digit\nif last_digit > 5:\n    stra = \"and is greater than 5\"\nelif last_digit == 0:\n    stra = \"and is 0\"\nelif last_digit < 6 and last_digit:\n    stra = \"and is less than 6 and not 0\"\nprint(\"Last digit of {} is {} {}\".format(number, last_digit, stra))",
+        "detail": "0x01-python-if_else_loops_functions.1-last_digit",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.10-add",
+        "description": "0x01-python-if_else_loops_functions.10-add",
+        "peekOfCode": "def add(a, b):\n    return a + b",
+        "detail": "0x01-python-if_else_loops_functions.10-add",
+        "documentation": {}
+    },
+    {
+        "label": "remove_char_at",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.101-remove_char_at",
+        "description": "0x01-python-if_else_loops_functions.101-remove_char_at",
+        "peekOfCode": "def remove_char_at(str, n):\n    for letter in str:\n        if letter == str[n]:\n            continue\n        else:\n            s = letter\n    return s",
+        "detail": "0x01-python-if_else_loops_functions.101-remove_char_at",
+        "documentation": {}
+    },
+    {
+        "label": "pow",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.11-pow",
+        "description": "0x01-python-if_else_loops_functions.11-pow",
+        "peekOfCode": "def pow(a, b):\n    return a ** b",
+        "detail": "0x01-python-if_else_loops_functions.11-pow",
+        "documentation": {}
+    },
+    {
+        "label": "fizzbuzz",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.12-fizzbuzz",
+        "description": "0x01-python-if_else_loops_functions.12-fizzbuzz",
+        "peekOfCode": "def fizzbuzz():\n    for i in range(1, 101):\n        if i % 15 == 0:\n            print(\"FizzBuzz\", end=' ')\n        elif i % 3 == 0:\n            print(\"Fizz\", end=' ')\n        elif i % 5 == 0:\n            print(\"Buzz\", end=' ')\n        else:\n            print(\"{}\".format(i), end=' ')",
+        "detail": "0x01-python-if_else_loops_functions.12-fizzbuzz",
+        "documentation": {}
+    },
+    {
+        "label": "islower",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.7-islower",
+        "description": "0x01-python-if_else_loops_functions.7-islower",
+        "peekOfCode": "def islower(c):\n    if c in \"abcdefghijklmnopqrstuvwxyz\":\n        return True\n    else:\n        return False",
+        "detail": "0x01-python-if_else_loops_functions.7-islower",
+        "documentation": {}
+    },
+    {
+        "label": "uppercase",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.8-uppercase",
+        "description": "0x01-python-if_else_loops_functions.8-uppercase",
+        "peekOfCode": "def uppercase(str):\n    for letter in str:\n        if ord(letter) > 96 and ord(letter) <= 122:\n            letter = chr(ord(letter) - 32)\n        print(\"{}\".format(letter), end='')\n    print(\"\")",
+        "detail": "0x01-python-if_else_loops_functions.8-uppercase",
+        "documentation": {}
+    },
+    {
+        "label": "print_last_digit",
+        "kind": 2,
+        "importPath": "0x01-python-if_else_loops_functions.9-print_last_digit",
+        "description": "0x01-python-if_else_loops_functions.9-print_last_digit",
+        "peekOfCode": "def print_last_digit(number):\n    n = str(number)\n    last_digit = n[-1]\n    print(\"{}\".format(last_digit), end='')\n    return last_digit",
+        "detail": "0x01-python-if_else_loops_functions.9-print_last_digit",
+        "documentation": {}
+    },
+    {
+        "label": "length",
+        "kind": 5,
+        "importPath": "0x02-python-import_modules.3-infinite_add",
+        "description": "0x02-python-import_modules.3-infinite_add",
+        "peekOfCode": "length = len(sys.argv)\nsumm = 0\nif __name__ == \"__main__\":\n    if length == 1:\n        summ = 0\n    else:\n        for i in range(1, length):\n            summ += int(sys.argv[i])\n    print(\"{:d}\".format(summ))",
+        "detail": "0x02-python-import_modules.3-infinite_add",
+        "documentation": {}
+    },
+    {
+        "label": "summ",
+        "kind": 5,
+        "importPath": "0x02-python-import_modules.3-infinite_add",
+        "description": "0x02-python-import_modules.3-infinite_add",
+        "peekOfCode": "summ = 0\nif __name__ == \"__main__\":\n    if length == 1:\n        summ = 0\n    else:\n        for i in range(1, length):\n            summ += int(sys.argv[i])\n    print(\"{:d}\".format(summ))",
+        "detail": "0x02-python-import_modules.3-infinite_add",
+        "documentation": {}
+    }
+]
